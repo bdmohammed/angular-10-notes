@@ -1,6 +1,6 @@
 Episode #16 - Templates in Angular components 
 
-1. whenever we generate a component 
+1. whenever we generate a component lol
     - 4 files 
         - template file ( .html )
         - style.scss ( stylesheet)
